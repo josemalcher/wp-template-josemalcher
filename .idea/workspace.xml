@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2eafdc44-190e-411c-9107-687217ca8931" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/wp-content.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/cvit-josemalcher/page-home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/cvit-josemalcher/page-tutorials.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/cvit-josemalcher/.git_bkp.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/cvit-josemalcher/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/cvit-josemalcher/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/cvit-josemalcher/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/themes/cvit-josemalcher/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/cvit-josemalcher/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/themes/cvit-josemalcher/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/cvit-josemalcher/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/themes/cvit-josemalcher/index.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\josem\OneDrive\02-workspaces\workspace-PHP\wordpress-josemalcher-cvit\wp-content\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UnlYl9XIKcoaKiN9Jp118XYhPh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/themes/cvit-josemalcher" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\josem\OneDrive\02-workspaces\workspace-PHP\wordpress-josemalcher-cvit\wp-content\themes\cvit-josemalcher" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\josem\OneDrive\02-workspaces\workspace-PHP\wordpress-josemalcher-cvit\wp-content" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2eafdc44-190e-411c-9107-687217ca8931" name="Default Changelist" comment="" />
+      <created>1576000289761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576000289761</updated>
+      <workItem from="1576000293432" duration="1117000" />
+      <workItem from="1576001500929" duration="6162000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="487" y="450" width="965" height="149" key="#WordPress" timestamp="1576000355050">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="487" y="450" width="965" height="149" key="#WordPress/0.0.1920.1050@0.0.1920.1050" timestamp="1576000355050" />
+    <state x="149" y="167" key="SettingsEditor" timestamp="1576001472134">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="149" y="167" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1576001472134" />
+    <state x="240" y="257" key="Vcs.Push.Dialog.v2" timestamp="1576000402317">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="240" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1576000402317" />
+    <state x="457" y="441" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576003783952">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="457" y="441" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1576003783952" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>C:\Users\josem\OneDrive\02-workspaces\workspace-PHP\wordpress-josemalcher-cvit</wordpressPath>
+  </component>
+</project>

@@ -1,4 +1,5 @@
 
+
 <!-- Footer Area Start -->
 <div id="footer">
     <div class="container">
@@ -118,51 +119,52 @@
 <!-- Wrapper End -->
 
 <!-- ==== jQuery ==== -->
-<script src="js/jquery.min.js"></script>
+<script src="<?php echo get_stylesheet_directory_uri(); ?>/js/jquery.min.js"></script>
 
 <!-- ==== Bootstrap ==== -->
-<script src="js/bootstrap.min.js"></script>
+<script src="<?php echo get_stylesheet_directory_uri(); ?>/js/bootstrap.min.js"></script>
 
 <!-- ==== jQuery UI DatePicker Plugin ==== -->
-<script src="js/jquery-ui.min.js"></script>
+<script src="<?php echo get_stylesheet_directory_uri(); ?>/js/jquery-ui.min.js"></script>
 
 <!-- ==== Owl Carousel Plugin ==== -->
-<script src="js/owl.carousel.min.js"></script>
+<script src="<?php echo get_stylesheet_directory_uri(); ?>/js/owl.carousel.min.js"></script>
 
 <!-- ==== Isotope Plugin ==== -->
-<script src="js/isotope-docs.min.js"></script>
+<script src="<?php echo get_stylesheet_directory_uri(); ?>/js/isotope-docs.min.js"></script>
 
 <!-- ==== jQuery Form Plugin ==== -->
-<script src="js/jquery.form.min.js"></script>
+<script src="<?php echo get_stylesheet_directory_uri(); ?>/js/jquery.form.min.js"></script>
 
 <!-- ==== jQuery Validation Plugin ==== -->
-<script src="js/jquery.validate.min.js"></script>
+<script src="<?php echo get_stylesheet_directory_uri(); ?>/js/jquery.validate.min.js"></script>
 
 <!-- ==== Google Map API ==== -->
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBK9f7sXWmqQ1E-ufRXV3VpXOn_ifKsDuc"></script>
 
 <!-- ==== GMaps Plugin ==== -->
-<script src="js/gmaps.min.js"></script>
+<script src="<?php echo get_stylesheet_directory_uri(); ?>/js/gmaps.min.js"></script>
 
 <!-- ==== jQuery Waypoints Plugin ==== -->
-<script src="js/jquery.waypoints.min.js"></script>
+<script src="<?php echo get_stylesheet_directory_uri(); ?>/js/jquery.waypoints.min.js"></script>
 
 <!-- ==== Animate Scroll Plugin ==== -->
-<script src="js/animatescroll.min.js"></script>
+<script src="<?php echo get_stylesheet_directory_uri(); ?>/js/animatescroll.min.js"></script>
 
 <!-- ==== CounterUp Plugin ==== -->
-<script src="js/jquery.counterup.min.js"></script>
+<script src="<?php echo get_stylesheet_directory_uri(); ?>/js/jquery.counterup.min.js"></script>
 
 <!-- ==== jQuery Nice Scroll Plugin ==== -->
-<script src="js/jquery.nicescroll.min.js"></script>
+<script src="<?php echo get_stylesheet_directory_uri(); ?>/js/jquery.nicescroll.min.js"></script>
 
 <!-- ==== Parallax Plugin ==== -->
-<script src="js/parallax.min.js"></script>
+<script src="<?php echo get_stylesheet_directory_uri(); ?>/js/parallax.min.js"></script>
 
 <!-- ==== RetinaJS Plugin ==== -->
-<script src="js/retina.min.js"></script>
+<script src="<?php echo get_stylesheet_directory_uri(); ?>/js/retina.min.js"></script>
 
 <!-- ==== Main Script ==== -->
-<script src="js/main.js"></script>
+<script src="<?php echo get_stylesheet_directory_uri(); ?>/js/main.js"></script>
+<?php wp_footer(); ?>
 </body>
 </html>
