@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2eafdc44-190e-411c-9107-687217ca8931" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/wp-content.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/cvit-josemalcher/page-home.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/cvit-josemalcher/page-tutorials.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/cvit-josemalcher/.git_bkp.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/cvit-josemalcher/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/cvit-josemalcher/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/cvit-josemalcher/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/themes/cvit-josemalcher/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/cvit-josemalcher/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/themes/cvit-josemalcher/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/cvit-josemalcher/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/themes/cvit-josemalcher/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +15,11 @@
     </execution>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="josemalcher &lt;contato@josemalcher.net&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">
@@ -48,6 +39,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -92,26 +84,44 @@
       <option name="presentableId" value="Default" />
       <updated>1576000289761</updated>
       <workItem from="1576000293432" duration="1117000" />
-      <workItem from="1576001500929" duration="6162000" />
+      <workItem from="1576001500929" duration="7041000" />
+      <workItem from="1576114275666" duration="272000" />
     </task>
+    <task id="LOCAL-00001" summary="Primeiros Ajustes no template!&#10;1 - página home (principal)&#10;2 - página de tutoriais">
+      <created>1576007922324</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576007922324</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Primeiros Ajustes no template!&#10;1 - página home (principal)&#10;2 - página de tutoriais" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiros Ajustes no template!&#10;1 - página home (principal)&#10;2 - página de tutoriais" />
   </component>
   <component name="WindowStateProjectService">
     <state x="487" y="450" width="965" height="149" key="#WordPress" timestamp="1576000355050">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="487" y="450" width="965" height="149" key="#WordPress/0.0.1920.1050@0.0.1920.1050" timestamp="1576000355050" />
+    <state x="681" y="130" key="CommitChangelistDialog2" timestamp="1576007920476">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="681" y="130" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1576007920476" />
     <state x="149" y="167" key="SettingsEditor" timestamp="1576001472134">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="149" y="167" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1576001472134" />
-    <state x="240" y="257" key="Vcs.Push.Dialog.v2" timestamp="1576000402317">
+    <state x="240" y="257" key="Vcs.Push.Dialog.v2" timestamp="1576007926397">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="240" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1576000402317" />
+    <state x="240" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1576007926397" />
     <state x="457" y="441" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576003783952">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
